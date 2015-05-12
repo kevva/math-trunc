@@ -1,0 +1,31 @@
+{
+  "name": "math-trunc",
+  "version": "1.0.0",
+  "description": "ES6 Math.trunc() ponyfill",
+  "license": "MIT",
+  "repository": "kevva/math-trunc",
+  "author": {
+    "name": "Kevin Mårtensson",
+    "email": "kevinmartensson@gmail.com",
+    "url": "https://github.com/kevva"
+  },
+  "engines": {
+    "node": ">=0.10.0"
+  },
+  "scripts": {
+    "test": "node test.js"
+  },
+  "files": [
+    "index.js"
+  ],
+  "keywords": [
+    "es6",
+    "math",
+    "polyfill",
+    "ponyfill",
+    "trunc"
+  ],
+  "devDependencies": {
+    "ava": "0.0.4"
+  }
+}

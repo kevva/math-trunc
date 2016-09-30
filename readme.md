@@ -1,6 +1,6 @@
 # math-trunc [![Build Status](https://travis-ci.org/kevva/math-trunc.svg?branch=master)](https://travis-ci.org/kevva/math-trunc)
 
-> ES6 [`Math.trunc()`](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Global_Objects/Math/trunc) ponyfill
+> ES6 [`Math.trunc()`](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Global_Objects/Math/trunc) [ponyfill](https://ponyfill.com)
 
 > Ponyfill: A polyfill that doesn't overwrite the native method
 

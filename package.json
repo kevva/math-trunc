@@ -1,6 +1,6 @@
 {
   "name": "math-trunc",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "ES6 Math.trunc() ponyfill",
   "license": "MIT",
   "repository": "kevva/math-trunc",

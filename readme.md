@@ -8,14 +8,14 @@
 ## Install
 
 ```
-$ npm install --save math-trunc
+$ npm install math-trunc
 ```
 
 
 ## Usage
 
 ```js
-var mathTrunc = require('math-trunc');
+const mathTrunc = require('math-trunc');
 
 mathTrunc(13.37);
 //=> 13
